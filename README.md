@@ -6,6 +6,7 @@ Install node and the following dependencies.
 ```
 npm install puppeteer, cheerio, axios, node-fetch
 ```
+You may need to set your browser path in grabvrg.js as it's set to the default windows path, see `executablePath: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'`
 
 ### Automatic Usage (recommended):
 node autodiff.js 7
