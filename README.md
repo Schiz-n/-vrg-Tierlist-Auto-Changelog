@@ -17,7 +17,6 @@ Cronjob example:
 0 0 * * 0 node autodiff.js 7
 ```
 Don't forget to include the full path to `autodiff.js`. 
-Also a bunch of paths are hardcoded lol expect to take a few minutes debugging.
 
 ### Manual usage:
 To clone every image
